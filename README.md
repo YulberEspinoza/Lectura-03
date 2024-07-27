@@ -9,13 +9,13 @@ Podemos hacerlo con el siguiente código:
 ul { list-style-type: ***; }
 
 ### ¿Cuándo debes usar una lista ordenada o lista no ordenada en tu documento HTML?
-<ol>: Cuando los elementos son ordenados y tienen relación.
-<ul>: Cunado el orden de los elementos no requiera tener una relación.
+ol Cuando los elementos son ordenados y tienen relación.
+ul Cunado el orden de los elementos no requiera tener una relación.
   
 ### Describe dos formas en las que puedes cambiar los números en los elementos de la lista proporcionados por una lista ordenada
 Podemos utilizar el siguiente código:
-<ol start="10">
-<ol type="j">
+ol start="10"
+ol type="j"
 
 ## Aprende CSS
 ### Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?
